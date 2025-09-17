@@ -1,4 +1,2 @@
 # Archivo de requerimientos para el proyecto hash_calc
-# Agrega aquí los paquetes necesarios, uno por línea, por ejemplo:
-# flask
-# requests
+python-docx
