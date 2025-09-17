@@ -1,0 +1,14 @@
+# Ignore archivos y carpetas innecesarios para el repositorio
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.DS_Store
+requirements
